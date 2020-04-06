@@ -1,6 +1,9 @@
 # LandmarkDetection
 This program marks the landmarks on the faces in image using OpenCV and dlib
 
+![](/src/images/face_m.jpeg). 
+![](/src/images/face_m_o.jpeg)
+
 ## Requirement
 **1.Landmark Detection model**
 * Download the model using following link http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
