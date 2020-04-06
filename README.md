@@ -14,7 +14,7 @@ This program marks the landmarks on the faces in image using OpenCV and dlib
 * Extract the downloaded file
 * Run the setup.py file present in the extracted folder
 
-**3.Pytjon libarraies**
+**3.Python libraries**
 dlib, pandas, numpy, sys, dlib, cv2
 
 ## How to Run the LandmarkDetection programme
